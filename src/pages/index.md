@@ -3,7 +3,7 @@ templateKey: index-page
 title: Regina Laanetu
 image: /img/img-4153.jpg
 heading: Great coffee with a conscience
-subheading: artwork and teaching
+subheading: art classes and courses
 mainpitch:
   title: Why Kaldi
   description: >
