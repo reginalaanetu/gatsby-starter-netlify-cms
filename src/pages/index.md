@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Regina Laanetu
 image: /img/img-4153.jpg
-heading: Great coffee with a conscience
+heading: " "
 subheading: art classes and courses
 mainpitch:
   title: " "
