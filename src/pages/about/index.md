@@ -1,19 +1,81 @@
 ---
 templateKey: about-page
 path: /about
-title: Teaching Philosophy
+title: About Me and My Teaching Philosophy
 ---
-### "Teaching Philosophy | Marc C. Santos
+### BACHELOR OF ARTS
+
+I graduated with my ***Bachelor of Arts*** from Georgia College & State University in 2010 with a major of Studio Art and 3.5/4.0 GPA.\
+The following list is a compilation of the art courses I took:
+
+
+
+STUDIO ART COURSES:
+
+ARTS 1000: Drawing I
+
+ARTS 1200: Two-Dimensional Design
+
+ARTS 1201: Three-Dimensional Design
+
+ARTS 1620: Intro. to Computer Arts
+
+ARTS 2100: Painting I
+
+ARTS 2300: Printmaking I
+
+ARTS 2900: Drawing II: Figure Drawing
+
+ARTS 3100: Painting II: Plein-air Painting *Study Abroad
+
+ARTS 3110: Painting III: Mural Painting
+
+ARTS 3900: Drawing III: Plein-air Drawing *Study Abroad
+
+ARTS 4110: Painting IV: Oil Painting
+
+ARTS 4120: Painting V: Independent Study
+
+ARTS 4960: Internship - Epworth By the Sea
+
+ARTS 4970: Drawing Practicum
+
+ARTS 4990: Senior Project
+
+ARTS 4991: Senior Exhibition
+
+
+
+ART HISTORY COURSES:
+
+ARTS 2800: The Ancient & Medieval Worlds
+
+ARTS 2810: From the Renaissance to the Modern World
+
+ARTS 4850: Art Criticism: Kant to Post Modern
+
+ARTS 4855: Public Art & Media Culture
+
+ARTS 4881: Indian Art History
+
+ARTS 4950: Dada and It's Influences
+
+## \
+\
+\
+\
+\
+Teaching Philosophy | Marc C. Santos
 
 “The authority of those who teach is often an obstacle to those who want to learn.” Cicero
 
-When it comes to teaching, I admit to being a bit skeptical. I’m not quite sure if people can be taught complex, dynamic arts such as writing or rhetoric. I am confident, however, that people can learn, and that they learn primarily through experience and reflection. As a teacher, it is my obligation to design environments that maximize the potential for students to have meaningful and transformative learning experiences. It is my duty to develop and enact methods of assessment that require reflection regarding the composition process (whether students are composing print documents or inventing new media genres) in order to transform experience into method."\
+"When it comes to teaching, I admit to being a bit skeptical. I’m not quite sure if people can be taught complex, dynamic arts such as writing or rhetoric. I am confident, however, that people can learn, and that they learn primarily through experience and reflection. As a teacher, it is my obligation to design environments that maximize the potential for students to have meaningful and transformative learning experiences. It is my duty to develop and enact methods of assessment that require reflection regarding the composition process (whether students are composing print documents or inventing new media genres) in order to transform experience into method."\
 \
 source: <http://www.marccsantos.com/teaching/>
 
 
 
-Jessica Hardy's Teaching Philosophy
+### Jessica Hardy's Teaching Philosophy
 
 "Art Teaching Philosophy
 
