@@ -3,7 +3,47 @@ templateKey: about-page
 path: /about
 title: About Me and My Teaching Philosophy
 ---
-### BACHELOR OF ARTS
+**MASTERS OF ART IN TEACHING**
+
+I graduated with my ***Masters of Art in Teaching*** from Georgia College & State University in May of 2012 with a major of Secondary Education: Art Education and a 4.0/4 GPA.\
+The following list is a compilation of the courses I took:
+
+
+
+GRADUATE ART COURSES:
+
+ARTS 6110: Painting for Educators
+
+ARTS 6950: Teaching Multiculturalism (in Art)
+
+ARTS 6950: Internship: Art Stop for Kids
+
+
+
+GRADUATE EDUCATION COURSES:
+
+EDFS 5203: Learning & the Learner
+
+EDFS 5205: Curriculum & Methods
+
+EDFS 5209: Culture & Schooling
+
+EDFS 5211: Classroom Research
+
+EDFS 6466: Field Internship (9 weeks)
+
+EDIT 5202: Technology for Teachers
+
+EDRD 5210: The Teaching of Reading
+
+EDEX 6111: Exceptional Individuals
+
+
+
+\
+\
+\
+**BACHELOR OF ARTS**
 
 I graduated with my ***Bachelor of Arts*** from Georgia College & State University in 2010 with a major of Studio Art and 3.5/4.0 GPA.\
 The following list is a compilation of the art courses I took:
